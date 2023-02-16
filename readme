@@ -1,0 +1,5 @@
+Вся основная работа находится в классах:
+1) Работа с методами объекта Object
+src/test/java/com/paul/startclass/ObjectMethodesApplicationTests.java
+2) Работа с Threads
+src/main/java/com/paul/startclass/ObjectMethodesApplication.java
